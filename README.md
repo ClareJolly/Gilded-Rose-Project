@@ -1,7 +1,5 @@
 # Gilded Rose Project
 
-*[This project is also on Diode.](https://diode.makersacademy.com/students/neoeno/projects/1732)*
-
 This is a project and set of resources designed to help you learn good object
 oriented design principles.
 
@@ -78,47 +76,3 @@ We have recently signed a supplier of conjured items. This requires an update to
 our system:
 
 * "Conjured" items degrade in `quality` twice as fast as normal items
-
-### Get feedback
-
-Send your code to your coach via Slack, who will give it a quick once-over and
-give you two things:
-
-1. A short paragraph of feedback
-2. A new feature to add
-
-The feature will be designed to encourage you to further improve your design,
-or change it to learn a new design technique.
-
-While you are waiting for feedback, use the time however you think best — for
-example to review some of the material below. It may take up to a day for
-someone to get back to you.
-
-### Keep going
-
-Improve the design, implement the new feature, get feedback — and keep going
-until next week or until a coach tells you you've learned everything you can
-from this exercise
-
-## Resources
-
-In the rough order you might want to try to cover them.
-
-* [What makes well-designed code?](https://github.com/makersacademy/course/blob/master/pills/what_makes_well_designed_code.md)
-* Using [Domain Model Diagramming](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming) to help you design programs (this is a workshop, but you can cover it without a coach too)
-* Designing for [high cohesion using encapsulation](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md).
-* Using [Forwarding & Polymorphism](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md) to reduce coupling.
-* Using [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) to ensure your unit tests are isolated.
-* [Testing relationships between classes](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md)
-* Using [Complexity Metrics](https://github.com/makersacademy/skills-workshops/blob/master/practicals/quality/complexity_metrics.md) to help you break up your programs.
-
-### Exemplar
-
-Sandi Metz has a conference talk that mirrors this task, during which she outlines a great process for refactoring and producing good designs.
-
-You should watch it at some point this week, it's up to you when you do so. We recommend watching it at either of these moments:
-
-1. If you feel genuinely stuck and unable to proceed.
-2. After you've done some serious work on the problem and would like to take your approach to the next level.
-
-[All The Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
